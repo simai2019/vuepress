@@ -5,3 +5,8 @@ yarn-error.log
 yarn.lock
 *.bk
 .env
+
+*/*/README.md
+*/*/*/README.md
+*/*/*/*/README.md
+*/*/*/*/*/README.md

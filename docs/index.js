@@ -19,7 +19,7 @@ function getDirectoriesRecursive(srcpath) {
 
 
 
-var folders = ['信仰探索','思麦与我','生活疑难']
+var folders = ['生活疑难','信仰探索','思麦与我']
 
 folders.forEach(function(folder){
 
@@ -28,9 +28,10 @@ folders.forEach(function(folder){
 	const p1Path = path.join(__dirname, dir);
 
 	const allfolders = getDirectoriesRecursive(p1Path)
-	console.log(allfolders);
+	//console.log(allfolders);
 
 	allfolders.forEach(function(directoryPath){
+		var lastFolderName = directoryPath.replace(p1Path,'');
 		//passsing directoryPath and callback function
 		fs.readdir(directoryPath, function (err, files) {
 		    //handling error
@@ -51,7 +52,7 @@ folders.forEach(function(folder){
 		        	lists += list
 		        }
 		    });
-		    var contents = '# '+ folder +'\n' + '> 自动索引日期： ' + new Date().toISOString().slice(0,10) + '\n\n' + lists
+		    var contents = '# '+ lastFolderName +'\n' + '> 自动索引日期： ' + new Date().toISOString().slice(0,10) + '\n\n' + lists
 		    
 		    
 		    //再加上old的items
@@ -71,10 +72,10 @@ folders.forEach(function(folder){
 
 		    var index = directoryPath+'/README.md'
 		    console.log(index + ' indexed!');
-		 //    fs.writeFile(index, contents, (err) => {
-			//   if (err) throw err;
-			//   console.log(index + ' indexed!');
-			// });
+		    fs.writeFile(index, contents, (err) => {
+			  if (err) throw err;
+			  console.log(index + ' indexed!');
+			});
 		});
 	})
 
