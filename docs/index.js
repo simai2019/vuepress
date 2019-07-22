@@ -32,6 +32,7 @@ folders.forEach(function(folder){
 
 	allfolders.forEach(function(directoryPath){
 		var lastFolderName = directoryPath.replace(p1Path,'');
+		if(lastFolderName=='') lastFolderName = folder
 		//passsing directoryPath and callback function
 		fs.readdir(directoryPath, function (err, files) {
 		    //handling error
