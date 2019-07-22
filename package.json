@@ -4,8 +4,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "node docs/index.js && vuepress dev docs",
+    "build": "node docs/index.js && vuepress build docs"
   },
   "devDependencies": {
     "vuepress": "^0.14.4"
