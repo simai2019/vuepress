@@ -46,14 +46,14 @@ folders.forEach(function(folder){
 		        if(file != 'README.md' && file != 'old.md'){
 		        	var list = ''
 		        	if(file.endsWith('.md')){
-		        		list = '- [' + file.substr(0,file.length-3) + ']('+ dir + file + ')\n'	
+		        		list = '- [' + file.substr(0,file.length-3) + '](./' + file + ')\n'	
 		        	}else{
 		        		list = '- [' + file + '/]('+ dir + file + ')\n'
 		        	}
 		        	lists += list
 		        }
 		    });
-		    var contents = '# '+ lastFolderName +'\n' + '> 自动索引日期： ' + new Date().toISOString().slice(0,10) + '\n\n' + lists
+		    var contents = '# '+ lastFolderName + '\n\n' + lists
 		    
 		    
 		    //再加上old的items

@@ -5,7 +5,7 @@ ARG password
 ARG repo
 ARG domain
 
-RUN apk add git
+RUN apk add git tzdata
 RUN git config --global user.email "vuepress@docker.build" \
 	&& git config --global user.name "Vuepress Autobuild in docker"
 
@@ -20,6 +20,10 @@ RUN npm install
 
 # copy project files and folders to the current working directory (i.e. 'app' folder)
 COPY . .
+
+# https://serverfault.com/a/683651
+ENV TZ=Asia/Shanghai
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 RUN rm -rf /app/docs/.vuepress/dist && yarn build \
 	&& cd /app/docs/.vuepress/dist \
