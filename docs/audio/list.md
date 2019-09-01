@@ -1,6 +1,6 @@
 # index
 
-- [【77595】 test名字)](https://cdn.wechat.edu.pl/audio/mp3/2019/190801-01.mp3)
+- [【77595】 创世记_050](https://service-ditbheec-1258120611.ap-hongkong.apigateway.myqcloud.com/release/abcShare/01创世记_050.mp3)
 - [【77594】 创25:27-34 | 世俗与名分(19.7.7晚)](https://cdn.wechat.edu.pl/audio/mp3/old/27579.mp3)
 - [【77593】 可13:1-37 什么时候有这些事？（四）](https://cdn.wechat.edu.pl/audio/mp3/old/27578.mp3)
 - [【77592】 彼前1:13-25 | 祂所喜悦的生活(19.6.30晚)](https://cdn.wechat.edu.pl/audio/mp3/old/27574.mp3)
