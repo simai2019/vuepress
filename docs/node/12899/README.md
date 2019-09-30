@@ -8,13 +8,19 @@
 
 <p>前面已经提到诗歌是敬拜中必不可缺的一部分。下来我们来探讨有关诗歌部分的常见问题。</p>
 
-<p>问题：一起读诗150。这里谈到诗歌敬拜都有哪些形式或手段？【唱歌、跳舞、乐器。。】</p>
+<p>问题：一起读诗150。这里谈到诗歌敬拜都有哪些形式或手段？</p>
+
+<p>诗篇150&nbsp;你们要赞美耶和华、在　神的圣所赞美他、在他显能力的穹苍赞美他。要因他大能的作为赞美他、按着他极美的大德赞美他。要用角声赞美他、鼓瑟弹琴赞美他．击鼓跳舞赞美他、用丝弦的乐器、和箫的声音赞美他．用大响的钹赞美他、用高声的钹赞美他。凡有气息的、都要赞美耶和华。你们要赞美耶和华。</p>
+
+<p>【唱歌、跳舞、乐器。。】</p>
 
 <p>问题：这里提到各样的乐器，你觉得这些是诗歌敬拜必须的么？为什么？</p>
 
 <p>【伴奏可以帮助我们更好地歌唱，帮助我们抒发情感，在旧约以色列人的圣殿敬拜中乐器是必须的，当时是整个利未支派的参与，其中肯定可以找到乐器恩赐的人，但是在新约主给教会的命令中乐器不是必须的。保罗和西拉在监狱赞美神，地震就来了。没有乐器。徒16：25.耶稣和门徒在最后的晚餐后赞美神，没有提到乐器。可14:26.我们不需要依赖任何人，任何乐器，单单借用歌曲敬拜神也是可以的。人的嗓子就是最好的乐器，是神造的，其他乐器都是人造的。不一定有其他乐器才有圣灵的工作，当肢体们聚集的时候，乐器就齐了。其他乐器是为我们服务，为我们更好敬拜神服务的，我们不是为乐器服务的。如果主赐给我们有音乐恩赐的人，则需要学习如何配搭带领大家更好地敬拜，否则乐器也可能成为敬拜的拦阻。这个在后面的诗歌带领学习中继续探讨。常见的误区是：伴奏起来，圣灵就来的，或者伴奏一定会让圣灵充满。我们容易把情绪的激发当做圣灵充满。音乐容易激发我们的情绪，但是不等于是圣灵充满。圣灵充满的表现是我们发自内心用歌词来赞美敬拜主（弗5:18-19）。】</p>
 
 <p>&nbsp;问题：一起翻开西3:16。你觉得诗歌敬拜中歌词的作用是什么？旋律的作用是什么？</p>
+
+<p>西3:16&nbsp;当用各样的智慧、把基督的道理、丰丰富富的存在心里、〔或作当把基督的道理丰丰富富的存在心里以各样的智慧〕用诗章、颂词、灵歌、彼此教导、互相劝戒心被恩感歌颂　神。</p>
 
 <p>【集体敬拜中诗歌敬拜的最重要的部分就是教导真理，透过诗歌、诗篇彼此教导，让真理丰丰富富地住在我们心里。旋律的目的在于帮助我们赞美神。旋律或伴奏所表达的情感需要和歌词相匹配。旋律是有文化背景的，不同的文化对于不同的情感的表达可能会有所不同。错误的方式是用伴奏或旋律来操纵会众的情感，会众的情感却不是因为歌词而发出，正确的情感是因为从内心歌唱而被歌词感动，因此感受和流露出相应的情感。诗歌的教导方式和讲道是有所不同的。主要是对神讲，带领大家定睛在主的身上。而不是对会众讲。这是我们选择诗歌的时候需要注意的地方。圣经中的诗篇一共有150首，大部分都是对神诉说。旧约诗篇中一部分是直接对会众唱的歌曲，原因是因为当时主要是利未人唱诗赞美神，在其中他们会唱一些诗歌来呼召大家来敬拜，比如说：你们要赞美耶和华。另外，也需要注意诗歌中的真理是否合乎圣经。诗歌中的真理是否清楚、足够丰富、足够深刻。而不总是挑选真理肤浅、旋律好听、强调情绪发泄的歌曲。】</p>
 
@@ -28,9 +34,13 @@
 
 <p>问题：一起读尼9:1-5；8:5-6；代下29:29-28；斯3:10-11；旧约为什么称颂耶和华的时候，以及听神的话语的时候，一般都是站着？你觉得站着和坐着有什么区别？</p>
 
+<p>尼9：5 利未人耶书亚、甲篾、巴尼、哈沙尼、示利比、荷第雅、示巴尼、毗他希雅说、你们要站起来称颂耶和华你们的　神永世无尽．耶和华阿、你荣耀之名、是应当称颂的、超乎一切称颂和赞美。”</p>
+
 <p>【在几乎所有文化中，站立都表示敬畏和尊敬，领导或官长来了，大家通常都会起立，就是这个原因。主是最伟大的君王，我们站立敬拜他是合宜的】</p>
 
-<p>问题：一起读诗篇47，这里说除了唱歌，我们还可以用什么动作赞美神？</p>
+<p>问题：一起读诗篇47：1-2，这里说除了唱歌，我们还可以用什么动作赞美神？(诗篇. 71:23;&nbsp;81:1)</p>
+
+<p>诗篇47：1-2 万民哪、你们都要拍掌．要用夸胜的声音向　神呼喊。因为耶和华至高者是可畏的．他是治理全地的大君王。</p>
 
 <p>问题：我们的文化中什么情况下会对一个人鼓掌？</p>
 
@@ -39,6 +49,8 @@
 <p>【要区别鼓掌和用手打节奏的不同。圣经提到用掌声的时候，不是为了打拍子。而是用来荣耀神。可以用来表达喜乐、审判、讽刺、赞美等。 (诗篇&nbsp;98:8;&nbsp;王下&nbsp;11:12;&nbsp;哀&nbsp;2;15;&nbsp;结&nbsp;6:11;&nbsp;诗篇. 47:1). 鼓掌不是为了把注意力引到自己身上，而是给神荣耀。这里并不是说不可以打拍子。而是要和鼓掌区分。如果要打拍子，带领的人就要打准了。也要带领大家打好拍子，不然不如不打。】</p>
 
 <p>问题：一起读诗篇134，这里说唱歌中我们可以有什么动作来赞美神？</p>
+
+<p>诗篇134：1-2&nbsp; 耶和华的仆人、夜间站在耶和华殿中的、你们当称颂耶和华。你们当向圣所举手、称颂耶和华。</p>
 
 <p>【诗篇28:2，举手也可以表示诚恳地呼求。】</p>
 
@@ -50,11 +62,11 @@
 
 <p>问题：省察自己为什么你不表达？圣经中有哪些身体语言我没有使用过？是为什么？</p>
 
-<p>【<span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">因为</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">过去的习惯，内在的谎言，在乎别人的看法。。。不知道神是否喜悦。。。。</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">不知</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">如何预备自己喜乐的心</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">。。</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">自己当时的状态不在点子上。。。</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">有些人是出于别人对自己的看法的担心。或者别人会认为自己太情绪话了。或者觉得这样和自己的身份不相称。圣经称之为惧怕人</font> (</span></span><a href="http://biblegateway.com/bible?version=&amp;passage=Prov.+29%3A25" title="Bible Gateway"><u><span class="15" style="font-size:10.5000pt"><span style="font-family:宋体"><span style="text-decoration:underline"><span style="text-underline:single"><font face="宋体">箴言</font></span></span></span></span></u><u><span class="15" style="font-size:10.5000pt"><span style="font-family:宋体"><span style="text-decoration:underline"><span style="text-underline:single">. 29:25</span></span></span></span></u></a><span style="font-size:10.5000pt"><span style="font-family:宋体">).我们敬拜神是基于神的所是所为，不是我们的形象、面子等。</span></span></span></span>】</p>
+<p>【因为过去的习惯，内在的谎言，在乎别人的看法。。。不知道神是否喜悦。。。。不知如何预备自己喜乐的心。。自己当时的状态不在点子上。。。有些人是出于别人对自己的看法的担心。或者别人会认为自己太情绪话了。或者觉得这样和自己的身份不相称。圣经称之为惧怕人 (<a href="http://biblegateway.com/bible?version=&amp;passage=Prov.+29%3A25" title="Bible Gateway">箴言. 29:25</a>).我们敬拜神是基于神的所是所为，不是我们的形象、面子等。】</p>
 
-<p class="16" style="text-align:left"><span style="vertical-align:baseline"><span style="line-height:12.8500pt"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：有人说敬拜是内心的活动，和身体没有关系</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">，</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">不需要考虑什么肢体语言</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">。</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">你觉得对吗？为什么？</font></span></span></span></span></p>
+<p>问题：有人说敬拜是内心的活动，和身体没有关系，不需要考虑什么肢体语言。你觉得对吗？为什么？</p>
 
-<p class="16" style="text-align:left"><span style="vertical-align:baseline"><span style="line-height:12.8500pt"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">【错的。</font>1）</span></span><span style="font-size:10.5000pt"><span style="background:#ffffff"><span style="font-family:宋体"><font face="宋体">任何身体的表达都应该是内心敬拜神的外在流露。否则外在的人任何动作都不能证明这个人在敬拜神。神首先看中的是内心。</font>(</span></span></span><a href="http://biblia.com/bible/esv/1 Sam. 16.7"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">撒上</font></span></span><u><span class="15" style="font-size:10.5000pt"><span style="background:#ffffff"><span style="font-family:宋体"><span style="text-decoration:underline"><span style="text-underline:single">&nbsp;16:7</span></span></span></span></span></u></a><span style="font-size:10.5000pt"><span style="background:#ffffff"><span style="font-family:宋体">).</span></span></span><span style="font-size:10.5000pt"><span style="background:#ffffff"><span style="font-family:宋体">2）</span></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">回顾一开始</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">关于敬拜</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">的两个形象。都会有动作的。身体语言的表达相对于内心来说确实是第二位的，但是也不能忽略。</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体">3）</span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">我们外在的肢体语言会影响我们的内心，我们的内心也会影响外在的动作。</font></span></span><span style="font-size:10.5000pt"><span style="background:#ffffff"><span style="font-family:宋体"><font face="宋体">即便当我的内心没有被我所唱的感动</font></span></span></span><span style="font-size:10.5000pt"><span style="background:#ffffff"><span style="font-family:宋体"><font face="宋体">的</font></span></span></span><span style="font-size:10.5000pt"><span style="background:#ffffff"><span style="font-family:宋体"><font face="宋体">时候，用身体语言来表达对神的敬拜也可能会激发我内心的情感。我举起我的双手，因为神配得高举。我跪下是因为神配得跪拜。我双脚跳跃是因为我欠神的债都被偿还了。我们的身体表达应该帮助别人看到神的荣耀。身体的表达在不同的文化、不同的时代可能不同。但是我们需要知道神配得我们最深的情感，而且可以透过身体语言表达出来。</font></span></span></span><span style="font-size:10.5000pt"><span style="background:#ffffff"><span style="font-family:宋体">4）我们无论做什么动作，都是做给神看的，是讨神的喜悦，不是人的喜悦。所以不用太在乎别人怎么看。当我们学会自由地敬拜的时候，</span></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">你可以在更保守的一点的，也可以在更开放一些的教会敬拜神。当然有的教会重视演唱真理而基本没有身体语言的表达，但是不等于他们内心没有活动，有的教会有很多外在的表达，但是也不等于他们追求经历而不是神。</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">】</font></span></span></span></span></p>
+<p>【错的。1）任何身体的表达都应该是内心敬拜神的外在流露。否则外在的人任何动作都不能证明这个人在敬拜神。神首先看中的是内心。(<a href="http://biblia.com/bible/esv/1 Sam. 16.7">撒上&nbsp;16:7</a>).2）回顾一开始关于敬拜的两个形象。都会有动作的。身体语言的表达相对于内心来说确实是第二位的，但是也不能忽略。3）我们外在的肢体语言会影响我们的内心，我们的内心也会影响外在的动作。即便当我的内心没有被我所唱的感动的时候，用身体语言来表达对神的敬拜也可能会激发我内心的情感。我举起我的双手，因为神配得高举。我跪下是因为神配得跪拜。我双脚跳跃是因为我欠神的债都被偿还了。我们的身体表达应该帮助别人看到神的荣耀。身体的表达在不同的文化、不同的时代可能不同。但是我们需要知道神配得我们最深的情感，而且可以透过身体语言表达出来。4）我们无论做什么动作，都是做给神看的，是讨神的喜悦，不是人的喜悦。所以不用太在乎别人怎么看。当我们学会自由地敬拜的时候，你可以在更保守的一点的，也可以在更开放一些的教会敬拜神。当然有的教会重视演唱真理而基本没有身体语言的表达，但是不等于他们内心没有活动，有的教会有很多外在的表达，但是也不等于他们追求经历而不是神。】</p>
 
 <p>问题：我们应该如何在内心的敬拜和外在的表达之间把握平衡？</p>
 
@@ -65,8 +77,6 @@
 <p>问题：你认为身体语言是自然而然就有的，还是可以后天学习的？为什么？</p>
 
 <p>问题：如何知道我们对于身体语言的抗拒是因为懒惰、或在乎别人的看法？你如何知道？</p>
-
-<p>问题：你认为呼喊是敬拜神的方式么？为什么？ (诗篇. 71:23;&nbsp;81:1)</p>
 
 <p>帮助会众提到身体表达能力的步骤：</p>
 

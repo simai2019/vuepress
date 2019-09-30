@@ -2,11 +2,9 @@
 
 
 
-<p style="text-align:left; margin:0pt 0pt 0.0001pt">&nbsp;</p>
+<p>彼此采访三分钟，然后回到大群介绍。教会大家彼此相爱。大家关系的熟悉会帮助大家更加参与讨论。</p>
 
-<p style="text-align:left; margin:0pt 0pt 0.0001pt"><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><span style="font-weight:normal"><font face="宋体">彼此采访三分钟，然后回到大群介绍。教会大家彼此相爱。大家关系的熟悉会帮助大家更加参与讨论。</font></span></span></span></span></span></p>
-
-<p><strong>注意</strong></p>
+<p>注意</p>
 
 <p>1、每一次都回顾过去学习的关键内容。</p>
 
@@ -18,29 +16,37 @@
 
 <p>5、经常关注大家是否明白了福音。</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><span style="font-weight:normal"><font face="宋体">热身：</font></span></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><span style="font-weight:normal">1、上次学习到敬拜的那两个画面？对你理解敬拜有什么帮助？</span></span></span></span></span></p>
+<p>热身：1、上次学习到敬拜的那两个画面？对你理解敬拜有什么帮助？</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><span style="font-weight:normal">2、</span></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><span style="font-weight:normal"><font face="宋体">最近</font></span></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><span style="font-weight:normal"><font face="宋体">你</font></span></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><span style="font-weight:normal"><font face="宋体">觉得你做什么或哪些事情的时候是在</font></span></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><span style="font-weight:normal"><font face="宋体">敬拜神？你怎么知道你在敬拜神？</font></span></span></span></span></span></p>
+<p>2、最近你觉得你做什么或哪些事情的时候是在敬拜神？你怎么知道你在敬拜神？</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><span style="font-weight:normal">3、为什么敬拜必须以福音为中心？</span></span></span></span></span></p>
+<p>3、为什么敬拜必须以福音为中心？</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><span style="font-weight:normal">【前面讲到没有福音就没有敬拜，因为没有福音，我们和神是隔绝的，是仇敌的关系，我们都在拜偶像，谈不上对神的敬拜。只有相信福音，我们和神的关系才和好，我们的心也从敬拜偶像到敬拜真神。下面还会讲到更多福音和敬拜的关系，主要是福音和敬拜的心态的关系。】</span></span></span></span></span></p>
+<p>【前面讲到没有福音就没有敬拜，因为没有福音，我们和神是隔绝的，是仇敌的关系，我们都在拜偶像，谈不上对神的敬拜。只有相信福音，我们和神的关系才和好，我们的心也从敬拜偶像到敬拜真神。下面还会讲到更多福音和敬拜的关系，主要是福音和敬拜的心态的关系。】</p>
 
 <p>今天学习的内容主要是敬拜应有的心态或态度是什么，以及前面讲的关于敬拜的定义会如何帮助我们在神面前有正确的心态。</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：太</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体">5:3-4提到作为基督徒的两个心里特征，你觉得是什么？</span></span></span></span></p>
+<p>问题：太5:3-4提到作为基督徒的两个心里特征，你觉得是什么？</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体">答：【贫穷是灵里贫穷的意思，也就是看到自己的罪和污秽，知道自己凭着自己在圣洁公义神面前站立不住，赛64:6。所以第一个特征是觉得不配来到主的面前。“哀恸”是为自己的现状难过，为自己的罪忧伤，诗篇51:17，有一颗忧伤痛悔的心，同时觉得自己应该灭亡。赛6:5中以赛亚说：祸哉，我要灭亡了。所以第二个特征是忧伤痛悔的心。】</span></span></span></span></p>
+<p>太5:3-4&nbsp;虚心的人有福了．因为天国是他们的。哀恸的人有福了．因为他们必得安慰。</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">如果我们仅仅看到神的崇高和自己的污秽，我们是绝望的。但是神在基督里给了我们盼望。</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">一起读罗</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体">5:8；约一4:9-10，你觉得</span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">从经文来看</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">天父和主耶稣爱你吗？为什么</font></span></span></span></span></p>
+<p>答：【贫穷是灵里贫穷的意思，也就是看到自己的罪和污秽，知道自己凭着自己在圣洁公义神面前站立不住，赛64:6。所以第一个特征是觉得不配来到主的面前。“哀恸”是为自己的现状难过，为自己的罪忧伤，诗篇51:17，有一颗忧伤痛悔的心，同时觉得自己应该灭亡。赛6:5中以赛亚说：祸哉，我要灭亡了。所以第二个特征是忧伤痛悔的心。】</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">答：【天父舍弃独生子、主耶稣为我们去死，展现了他们的爱。】</font></span></span></span></span></p>
+<p>问题：如果我们仅仅看到神的崇高和自己的污秽，我们是绝望的。但是神在基督里给了我们盼望。一起读罗5:8；约一4:9-10，你觉得从经文来看天父和主耶稣爱你吗？为什么？</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">可选</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：你有没有爱过一个人？你爱一个人的时候是什么感觉？</font>--这个人可以是家人、恋人或其他。</span></span></span></span></p>
+<p>罗5:8&nbsp;&nbsp;惟有基督在我们还作罪人的时候为我们死、　神的爱就在此向我们显明了。</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">你心里有对神的爱吗</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">？</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">为什么？</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">【</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">我们爱，因为神先爱了我们</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">。</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">如果我们相信福音，神的爱会浇灌在我们心里，我们知道和相信神爱我们，我们自然会爱神。</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">】</font></span></span></span></span></p>
+<p>约一4:9-10&nbsp;神差他独生子到世间来、使我们借着他得生、　神爱我们的心、在此就显明了。不是我们爱　神、乃是　神爱我们、差他的儿子、为我们的罪作了挽回祭、这就是爱了。</p>
+
+<p>答：【天父舍弃独生子、主耶稣为我们去死，展现了他们的爱。】</p>
+
+<p>可选问题：你有没有爱过一个人？你爱一个人的时候是什么感觉？--这个人可以是家人、恋人或其他。</p>
+
+<p>问题：你心里有对神的爱吗？为什么？【我们爱，因为神先爱了我们。如果我们相信福音，神的爱会浇灌在我们心里，我们知道和相信神爱我们，我们自然会爱神。】</p>
 
 <p>问题：一起读诗2:11-12。这里“子“就是神的独生子，主耶稣基督。“以嘴亲子”表达的就是我们对主表示臣服、投靠、讨他喜悦，而不是惹他发怒。这里提到来到神面前的一个基本心态是敬畏，你觉 得我们为什么要敬畏神？敬畏神的表现有哪些？</p>
+
+<p>诗篇2:11-12&nbsp;当存畏惧事奉耶和华、又当存战兢而快乐。当以嘴亲子、恐怕他发怒、你们便在道中灭亡、因为他的怒气快要发作。凡投靠他的、都是有福的。</p>
 
 <p>【这个问题的目的在于帮助大家给自己敬畏神的理由，包括神的伟大、神的能力、神对罪的愤怒、罪的后果的可怕、神救赎的洪恩等等，以帮助自己学会敬畏神。敬畏中看到自己的罪，会为自己的罪忧伤痛悔。谦卑在神的面前。】</p>
 
@@ -54,26 +60,32 @@
 
 <p>问题：经文提到我们敬拜要有要有感恩的心。参考来12：28。为什么我们要感恩？</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：你觉得福音如何帮助我们有哀恸的心、敬畏的心、感恩的心、爱神的心和喜乐的心？【福音彰显了神的愤怒和伟大，让我们敬畏和哀恸，福音彰显了神对我们的救赎，让我们感恩，福音彰显了神对我们的怜悯和大爱，让我们爱神，福音彰显神给我们的祝福，让我们喜乐。】</font></span></span></span></span></p>
+<p>来12:28&nbsp;所以我们既得了不能震动的国、就当感恩、照　神所喜悦的、用虔诚敬畏的心事奉　神。</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：当你来到神面前的时候，你什么样的心态多一些？为什么？上面的学习给你什么样的提醒和帮助？</font></span></span></span></span></p>
+<p>问题：你觉得福音如何帮助我们有哀恸的心、敬畏的心、感恩的心、爱神的心和喜乐的心？【福音彰显了神的愤怒和伟大，让我们敬畏和哀恸，福音彰显了神对我们的救赎，让我们感恩，福音彰显了神对我们的怜悯和大爱，让我们爱神，福音彰显神给我们的祝福，让我们喜乐。】</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：在你所喜欢的赞美诗当中，表达什么情感的赞美诗多一些？上面的学习给你什么样的提醒和帮助？</font></span></span></span></span></p>
+<p>问题：当你来到神面前的时候，你什么样的心态多一些？为什么？上面的学习给你什么样的提醒和帮助？</p>
+
+<p>问题：在你所喜欢的赞美诗当中，表达什么情感的赞美诗多一些？上面的学习给你什么样的提醒和帮助？</p>
 
 <p>问题：你认为在敬拜的第一个图像“狗吻主人”当中谁是最重要的或谁的感觉是最重要的？为什么？第二个图像呢？</p>
 
 <p>【狗需要发自内心，所以狗的感觉也重要，如果一定要对比，主人的感觉更重要，因为狗的目的是为了讨好主人，当主人感觉好的时候，狗的感觉也会好。把神放在第一位的时候，其他的关系才会摆对。】</p>
 
-<p>问题：你平时敬拜神的时候，更容易追求的是你的感觉，还是神的感觉？为什么？</p>
+<p>问题：你平时敬拜神的时候，更容易追求的是你的感觉，还是神的感觉或讨神的喜悦？为什么？</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：一起读诗篇</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体">13</span></span><span style="font-size:10.5000pt"><span style="font-family:宋体">.大卫当时在遇到什么难处？</span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">他的心情如何？</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">什么因素让他依然敬拜神？</font></span></span></span></span></p>
+<p>问题：一起读诗篇13.大卫当时在遇到什么难处？他的心情如何？什么因素让他依然敬拜神？</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">【大卫被仇敌压制，和你愁苦，神很久没有听他祷告，没有拯救他。当他仰望神的慈爱和神的救恩，才开始快乐，因为神恩待了他。让我们得到安慰和力量的不是今生，而是永生。我们是为着永生来敬拜神。】</font></span></span></span></span></p>
+<p>诗篇13&nbsp;耶和华阿、你忘记我要到几时呢．要到永远么．你掩面不顾我要到几时呢．我心里筹算、终日愁苦、要到几时呢．我的仇敌升高压制我、要到几时呢。耶和华我的　神阿、求你看顾我、应允我、使我眼目光明、免得我沉睡至死．免得我的仇敌说、我胜了他．免得我的敌人在我摇动的时候喜乐。但我倚靠你的慈爱．我的心因你的救恩快乐。我要向耶和华歌唱、因他用厚恩待我。</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：一起读徒</font>16:16-34，保罗他们</span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">在</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">经历</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">什么</font></span></span><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">难处？他们为什么依然敬拜赞美神？</font></span></span></span></span></p>
+<p>【大卫被仇敌压制，和你愁苦，神很久没有听他祷告，没有拯救他。当他仰望神的慈爱和神的救恩，才开始快乐，因为神恩待了他。让我们得到安慰和力量的不是今生，而是永生。我们是为着永生来敬拜神。】</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：上面两个故事给你什么启发？在你遇到难处的时候，你如何能敬拜神？【最重要的是对神的信靠，难处不是神抵挡我们，是祝福我们的渠道。我们敬拜是因为神本身的所是所为，而不是因为环境和我们，神已经为我们成就了大事，所以配得我们的敬拜赞美。】</font></span></span></span></span></p>
+<p>问题：一起读徒16:22-25，保罗他们在经历什么难处？他们为什么依然敬拜赞美神？</p>
 
-<p><span style="font-size:10.5pt"><span style="font-family:&quot;Times New Roman&quot;"><span style="font-size:10.5000pt"><span style="font-family:宋体"><font face="宋体">问题：大家有没有在难处中敬拜赞美神的经历？如有请分享，让大家彼此安慰和鼓励。</font></span></span></span></span></p>
+<p>徒16:22-25 众人就一同起来攻击他们．官长吩咐剥了他们的衣裳、用棍打。打了许多棍、便将他们下在监里、嘱咐禁卒严紧看守。禁卒领了这样的命、就把他们下在内监里、两脚上了木狗。约在半夜、保罗和西拉、祷告唱诗赞美　神．众囚犯也侧耳而听。</p>
+
+<p>问题：上面两个故事给你什么启发？在你遇到难处的时候，你如何能敬拜神？【最重要的是对神的信靠，难处不是神抵挡我们，是祝福我们的渠道。我们敬拜是因为神本身的所是所为，而不是因为环境和我们，神已经为我们成就了大事，所以配得我们的敬拜赞美。】</p>
+
+<p>问题：大家有没有在难处中敬拜赞美神的经历？如有请分享，让大家彼此安慰和鼓励。</p>
 
 <p>最后2-3个人一组分享今天学习的收获并彼此代祷。</p>
