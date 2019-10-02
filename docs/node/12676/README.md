@@ -80,6 +80,6 @@
 
 <div>如果您需要看我们地址的全景地图可以点击这里：<a href="http://map.baidu.com/?newmap=1&amp;shareurl=1&amp;panoid=0100220000130716115717678J1&amp;panotype=street&amp;heading=197.05&amp;pitch=18.87&amp;l=19&amp;tn=B_NORMAL_MAP&amp;sc=0&amp;newmap=1&amp;shareurl=1&amp;pid=0100220000130716115717678J1&amp;cpinfo=%5B%7B&quot;name&quot;%3A&quot;思麦教会&quot;%2C&quot;x&quot;%3A12976824.33667268%2C&quot;y&quot;%3A4828029.429724426%2C&quot;z&quot;%3A2.9001002311706543%7D%5D">思麦地址的全景地图</a></div>
 
-<div>如果你想了解我们的信仰背景，请点击《<a href="https://cdnapi.yongbuzhixi.com/index.php/node/12740">思麦会友信仰告白</a>》。</div>
+<div>如果你想了解我们的信仰背景，请点击《<a href="/node/12740">思麦会友信仰告白</a>》。</div>
 
 <div>如果你想进入我们所有的资源列表，请点击《<a href="/">思麦欢迎你！</a>》。</div>

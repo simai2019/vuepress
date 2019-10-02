@@ -9,5 +9,9 @@ module.exports = {
     ]
   },
   title: '思麦团契',
-  description: '思麦教会'
+  description: '思麦教会',
+  head: [
+    ['link', { rel: "icon", type: "image/x-icon", href: "/favicon.ico"}],
+    ['link', { rel: "shortcut icon", type: "image/x-icon", href: "/favicon.ico"}],
+  ],
 }
