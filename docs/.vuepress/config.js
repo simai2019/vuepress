@@ -1,5 +1,8 @@
 module.exports = {
   themeConfig: {
+    smoothScroll: true,
+    search: false,
+    sidebar: false,
     lastUpdated: 'Last Updated',
     nav: [
       { text: '首页', link: '/' },
