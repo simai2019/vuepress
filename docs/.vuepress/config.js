@@ -9,7 +9,7 @@ module.exports = {
       { text: '信仰探索', link: '/#信仰探索' },
       { text: '生活疑难', link: '/#生活疑难' },
       { text: '思麦与我', link: '/#思麦与我' },
-      { text: '最近更新', link: '/最近更新' }
+      { text: '最近更新', link: '/最近更新/' }
     ]
   },
   title: '思麦团契',
