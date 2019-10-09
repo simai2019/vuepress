@@ -1,5 +1,5 @@
 # 音频列表 for 微信
-
+- [【77624】哥林多前书3:16-17 | 你们是圣灵的殿(2019.10.06早22)](https://cdn.wechat.edu.pl/audio/mp3/2019/191006_001.mp3)
 - [【77623】 见证 | 永蒙弟兄见证（2019.09.29晚）](https://cdn.wechat.edu.pl/audio/mp3/old/27664.mp3)
 - [【77622】 罗5：20 | 知罪与知恩（2019.09.29晚）](https://cdn.wechat.edu.pl/audio/mp3/old/27663.mp3)
 - [【77621】 可15:15-32 |耶稣被钉（2019.09.29早二）](https://cdn.wechat.edu.pl/audio/mp3/old/27662.mp3)
