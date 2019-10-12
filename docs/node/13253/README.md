@@ -1,6 +1,6 @@
 # 弗6：23—24 | 唯独恩典（17/10.22早）
 
-<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//cdn.wechat.edu.pl/audio/mp3/old/13253.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//cdn.simai.ml/audio/mp3/old/13253.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 
 <p>这是以弗所书最后的经文，本次讲道核心的唯独恩典。</p>

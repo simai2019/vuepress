@@ -1,6 +1,6 @@
 # 恭喜有刚弟兄和育宏姊妹受洗归主！
 
-<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//cdn.wechat.edu.pl/audio/mp3/old/13063.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//cdn.simai.ml/audio/mp3/old/13063.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 
 <section data-role="outer">
