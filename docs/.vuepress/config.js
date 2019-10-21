@@ -1,7 +1,8 @@
 module.exports = {
   themeConfig: {
     smoothScroll: true,
-    search: false,
+    search: true,
+    searchMaxSuggestions: 5,
     sidebar: false,
     lastUpdated: 'Last Updated',
     nav: [
