@@ -5,7 +5,8 @@
   "private": true,
   "scripts": {
     "dev": "node docs/index.js && vuepress dev docs",
-    "build": "node docs/index.js && vuepress build docs"
+    "build": "vuepress build docs",
+    "start": "node docs/index.js"
   },
   "devDependencies": {
     "vuepress": "^0.14.4"
