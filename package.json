@@ -9,6 +9,7 @@
     "start": "node docs/index.js"
   },
   "devDependencies": {
-    "vuepress": "^0.14.4"
+    "vuepress": "^0.14.4",
+    "vue-router": "3.4.5"
   }
 }
