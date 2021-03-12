@@ -1,6 +1,6 @@
 # 一个弟兄脱离新天地邪教的见证
 
-<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//cdn.simai.ml/audio/mp3/old/27661.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//file.simai.life/audio/mp3/old/27661.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 
 <p>感谢主，能够有信心做这次的信仰见证。18年11月4日第一次来到教会，才真正经历了主，信心得到一些成长，过年我还在老家教会去传福音做了见证。</p>

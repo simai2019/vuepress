@@ -1,6 +1,6 @@
 # 约6：15—21 | 苦难中的祝福（17.11.05早）
 
-<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//cdn.simai.ml/audio/mp3/old/14665.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//file.simai.life/audio/mp3/old/14665.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 
 <p>【约6:15】耶稣既知道众人要来强逼他作王，就独自又退到山上去了。<br />

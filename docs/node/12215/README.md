@@ -1,6 +1,6 @@
 # 创1：1-5神就是光
 
-<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//cdn.simai.ml/audio/mp3/old/12215.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//file.simai.life/audio/mp3/old/12215.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 
 <p>小组的活动程序和前面一样。&nbsp;&nbsp; &nbsp; 建立关系可以做的三件事情：&nbsp;</p>
