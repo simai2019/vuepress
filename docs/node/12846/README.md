@@ -4,13 +4,13 @@
 
 <p>&nbsp; &nbsp; 系列文章的链接：</p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12843">《主日是基督徒的安息日么？（一）》--历史的视角</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12843">《主日是基督徒的安息日么？（一）》--历史的视角</a></p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12844">《主日是基督徒的安息日么？（二）》--支持的理由</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12844">《主日是基督徒的安息日么？（二）》--支持的理由</a></p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12845">《主日是基督徒的安息日么？（三）》--反对的理由</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12845">《主日是基督徒的安息日么？（三）》--反对的理由</a></p>
 
-<p>&nbsp;<a href="https://cdnapi.yongbuzhixi.com/node/12846"> &nbsp; 《主日是基督徒的安息日么？（四）》--常见的问题&nbsp;</a></p>
+<p>&nbsp;<a href="https://www.simai.life/node/12846"> &nbsp; 《主日是基督徒的安息日么？（四）》--常见的问题&nbsp;</a></p>
 
 <p><br />
 &nbsp; &nbsp; 一、以下是一些和主日或聚会常见的问题：</p>

@@ -16,7 +16,7 @@
 
 <p><a href="/node/12732">创造和堕落</a>&nbsp;&nbsp;<a href="/node/12733"> &nbsp;&nbsp;耶稣的救赎</a></p>
 
-<p><a href="https://cdnapi.yongbuzhixi.com/node/12735">唯独信心</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/node/12734">&nbsp;&nbsp;圣灵论</a></p>
+<p><a href="https://www.simai.life/node/12735">唯独信心</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/node/12734">&nbsp;&nbsp;圣灵论</a></p>
 
 <p><a href="/node/12741">天使论</a>&nbsp;&nbsp;&nbsp;<a href="/node/12736"> &nbsp;&nbsp;教会论</a></p>
 

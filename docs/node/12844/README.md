@@ -4,13 +4,13 @@
 
 <p>&nbsp; &nbsp; 系列文章的链接：</p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12843">《主日是基督徒的安息日么？（一）》--历史的视角</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12843">《主日是基督徒的安息日么？（一）》--历史的视角</a></p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12844">《主日是基督徒的安息日么？（二）》--支持的理由</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12844">《主日是基督徒的安息日么？（二）》--支持的理由</a></p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12845">《主日是基督徒的安息日么？（三）》--反对的理由</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12845">《主日是基督徒的安息日么？（三）》--反对的理由</a></p>
 
-<p>&nbsp;<a href="https://cdnapi.yongbuzhixi.com/node/12846"> &nbsp; 《主日是基督徒的安息日么？（四）》--常见的问题&nbsp;</a></p>
+<p>&nbsp;<a href="https://www.simai.life/node/12846"> &nbsp; 《主日是基督徒的安息日么？（四）》--常见的问题&nbsp;</a></p>
 
 <p><br />
 &nbsp; &nbsp; 我又查考了一些资料，发现支持主日是基督徒的安息日的理由主要有以下几点：</p>
@@ -57,4 +57,4 @@
 &nbsp; &nbsp; 结论：新约的基督徒仍然应该分别主日为圣，不仅仅是因为教会的聚会在主日，更是因为这是神在旧约和新约中连续、一贯的命令。</p>
 
 <p><br />
-&nbsp; &nbsp; 那么上面这些理由是否真是对的呢？请点击阅读&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12845">《主日是基督徒的安息日么？（三）》--反对的理由</a></p>
+&nbsp; &nbsp; 那么上面这些理由是否真是对的呢？请点击阅读&nbsp; &nbsp; <a href="https://www.simai.life/node/12845">《主日是基督徒的安息日么？（三）》--反对的理由</a></p>

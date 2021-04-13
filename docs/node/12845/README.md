@@ -4,13 +4,13 @@
 
 <p>&nbsp; &nbsp; &nbsp;系列文章的链接：</p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12843">《主日是基督徒的安息日么？（一）》--历史的视角</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12843">《主日是基督徒的安息日么？（一）》--历史的视角</a></p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12844">《主日是基督徒的安息日么？（二）》--支持的理由</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12844">《主日是基督徒的安息日么？（二）》--支持的理由</a></p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12845">《主日是基督徒的安息日么？（三）》--反对的理由</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12845">《主日是基督徒的安息日么？（三）》--反对的理由</a></p>
 
-<p>&nbsp;<a href="https://cdnapi.yongbuzhixi.com/node/12846"> &nbsp; 《主日是基督徒的安息日么？（四）》--常见的问题&nbsp;</a></p>
+<p>&nbsp;<a href="https://www.simai.life/node/12846"> &nbsp; 《主日是基督徒的安息日么？（四）》--常见的问题&nbsp;</a></p>
 
 <p><br />
 &nbsp; &nbsp; 接下来我们就一条一条地回应上面的理由：</p>
@@ -46,4 +46,4 @@
 &nbsp; &nbsp; 所以，我们的结论是：安息日已经不再适用于基督徒，主日（七日的头一日）是基督徒常见的聚会的日子（而不是唯一的日子），主日不是安息日，也不是基督徒的安息日。关于安息日的规定也不适用于基督徒。把一周中的某一整天分别出来，什么工作也不做（只能做一些慈善的事情），这并不是圣经从旧约到新约一致的命令，而是从旧约遗留下来的传统。按照新约的命令，我们每一天都应该敬拜神，我们里面有圣灵，我们随时可以来到神的面前敬拜他，这是和旧约的以色列人有根本的区别，他们只能去指定的地方朝见神（约4：21-24）。作为神的儿女，我们不是只有主日一天不为自己活，而是每一天都要为主活，任何事情都要为主做（西3：23-25）。</p>
 
 <p><br />
-&nbsp; &nbsp;关于对这个结论的反对意见有哪些？以及和主日有关的常见问题都有哪些？请点击阅读&nbsp;<a href="https://cdnapi.yongbuzhixi.com/node/12846"> &nbsp; 《主日是基督徒的安息日么？（四）》--常见的问题&nbsp;</a>。</p>
+&nbsp; &nbsp;关于对这个结论的反对意见有哪些？以及和主日有关的常见问题都有哪些？请点击阅读&nbsp;<a href="https://www.simai.life/node/12846"> &nbsp; 《主日是基督徒的安息日么？（四）》--常见的问题&nbsp;</a>。</p>

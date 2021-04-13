@@ -4,13 +4,13 @@
 
 <p>&nbsp; &nbsp; 系列文章的链接：</p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12843">《主日是基督徒的安息日么？（一）》--历史的视角</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12843">《主日是基督徒的安息日么？（一）》--历史的视角</a></p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12844">《主日是基督徒的安息日么？（二）》--支持的理由</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12844">《主日是基督徒的安息日么？（二）》--支持的理由</a></p>
 
-<p>&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12845">《主日是基督徒的安息日么？（三）》--反对的理由</a></p>
+<p>&nbsp; &nbsp; <a href="https://www.simai.life/node/12845">《主日是基督徒的安息日么？（三）》--反对的理由</a></p>
 
-<p>&nbsp;<a href="https://cdnapi.yongbuzhixi.com/node/12846"> &nbsp; 《主日是基督徒的安息日么？（四）》--常见的问题&nbsp;</a></p>
+<p>&nbsp;<a href="https://www.simai.life/node/12846"> &nbsp; 《主日是基督徒的安息日么？（四）》--常见的问题&nbsp;</a></p>
 
 <p><br />
 &nbsp; &nbsp; 主日是基督徒的安息日么？</p>
@@ -83,6 +83,6 @@
 
 <p>&nbsp; &nbsp; 神仅仅严格禁止那些不是绝对必要的工作和那些不完全是慈善之举的工作。因此所有为了增产和赚钱的工作，包括那些流水作业的工业都是被禁止的。当然，要是谈到那些不能片刻停工的生产线，会产生一些无法解决的问题。但是我们应该意识到这样的生产线所带来的咒诅远远大于祝福。</p>
 
-<p>&nbsp; &nbsp; 那么支持“主日是基督徒的安息日”的理由有哪些呢？请点击阅读&nbsp; &nbsp; <a href="https://cdnapi.yongbuzhixi.com/node/12844">《主日是基督徒的安息日么？（二）》--支持的理由</a>。</p>
+<p>&nbsp; &nbsp; 那么支持“主日是基督徒的安息日”的理由有哪些呢？请点击阅读&nbsp; &nbsp; <a href="https://www.simai.life/node/12844">《主日是基督徒的安息日么？（二）》--支持的理由</a>。</p>
 
 <p>&nbsp;</p>
