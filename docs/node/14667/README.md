@@ -1,6 +1,6 @@
 # 创3：14—24 | 审判中的怜悯（17.11.05晚）
 
-<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="//file.simai.life/audio/mp3/old/14667.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio style="width: 100%;" preload="false" controls controlslist="nodownload"><source src="http://file.simai.life/audio/mp3/old/14667.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 
 <p>【创3:14】耶和华　神对蛇说：“你既作了这事，就必受咒诅，比一切的牲畜野兽更甚。你必用肚子行走，终身吃土。 【创3:15】我又要叫你和女人彼此为仇；你的后裔和女人的后裔也彼此为仇。女人的后裔要伤你的头，你要伤他的脚跟。” 【创3:16】又对女人说：“我必多多加增你怀胎的苦楚，你生产儿女必多受苦楚。你必恋慕你丈夫，你丈夫必管辖你。” 【创3:17】又对亚当说：“你既听从妻子的话，吃了我所吩咐你不可吃的那树上的果子，地必为你的缘故受咒诅。你必终身劳苦，才能从地里得吃的。 【创3:18】地必给你长出荆棘和蒺藜来，你也要吃田间的菜蔬。 【创3:19】你必汗流满面才得糊口，直到你归了土，因为你是从土而出的。你本是尘土，仍要归于尘土。” 【创3:20】亚当给他妻子起名叫夏娃，因为她是众生之母。 【创3:21】耶和华　神为亚当和他妻子用皮子作衣服给他们穿。 【创3:22】耶和华　神说：“那人已经与我们相似，能知道善恶。现在恐怕他伸手又摘生命树的果子吃，就永远活着。” 【创3:23】耶和华　神便打发他出伊甸园去，耕种他所自出之土。 【创3:24】于是把他赶出去了。又在伊甸园的东边安设基路伯，和四面转动发火焰的剑，要把守生命树的道路。</p>
