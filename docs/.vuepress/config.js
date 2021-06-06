@@ -13,8 +13,8 @@ module.exports = {
       { text: '最近更新', link: '/最近更新/' }
     ]
   },
-  title: '思麦团契',
-  description: '思麦教会',
+  title: '思麦之家',
+  description: '思麦之家',
   head: [
     ['link', { rel: "icon", type: "image/x-icon", href: "/favicon.ico"}],
     ['link', { rel: "shortcut icon", type: "image/x-icon", href: "/favicon.ico"}],
