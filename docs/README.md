@@ -1,9 +1,10 @@
 # 思麦之家
 
-亲爱的朋友，感谢您拜访我们的公众号！[欢迎您点此关注我们！](https://mp.weixin.qq.com/s/XQ4CWYCCR7u1ktncSx3XRw#123)
+亲爱的朋友，感谢您拜访我们的公众号！[欢迎您点此关注我们！]
+(https://mp.weixin.qq.com/s/XQ4CWYCCR7u1ktncSx3XRw)
 
 
-如有任何问题或反馈请联系微信号：
+如有任何问题或反馈请联系微信号：无
 
 我们提供的资讯分类有:
 
