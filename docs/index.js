@@ -19,7 +19,7 @@ function getDirectoriesRecursive(srcpath) {
 
 
 
-var folders = ['生活疑难','信仰探索','思麦与我']
+var folders = ['生活疑难','信仰探索','教会与我']
 
 folders.forEach(function(folder){
 
