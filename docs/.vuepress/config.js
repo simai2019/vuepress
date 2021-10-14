@@ -9,8 +9,7 @@ module.exports = {
       { text: '首页', link: '/' },
       { text: '信仰探索', link: '/#信仰探索' },
       { text: '生活疑难', link: '/#生活疑难' },
-      { text: '教会与我', link: '/#教会与我' },
-      { text: '最近更新', link: '/最近更新/' }
+      { text: '教会与我', link: '/#教会与我' }
     ]
   },
   title: '七标志',
